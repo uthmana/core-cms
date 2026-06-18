@@ -40,6 +40,17 @@
       "static/css/app/(payload)/admin/[[...segments]]/page.css",
       "static/chunks/app/(payload)/admin/[[...segments]]/page.js"
     ],
+    "/(app)/tenant-slugs/[tenant]/login/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(app)/tenant-slugs/[tenant]/login/page.css",
+      "static/chunks/app/(app)/tenant-slugs/[tenant]/login/page.js"
+    ],
+    "/(app)/tenant-slugs/[tenant]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(app)/tenant-slugs/[tenant]/page.js"
+    ],
     "/_not-found/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
