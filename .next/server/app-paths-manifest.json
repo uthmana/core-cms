@@ -1,7 +1,8 @@
 {
+  "/_not-found/page": "app/_not-found/page.js",
   "/(app)/page": "app/(app)/page.js",
   "/(app)/tenant-domains/[tenant]/login/page": "app/(app)/tenant-domains/[tenant]/login/page.js",
-  "/(payload)/admin/[[...segments]]/page": "app/(payload)/admin/[[...segments]]/page.js",
   "/(app)/tenant-slugs/[tenant]/login/page": "app/(app)/tenant-slugs/[tenant]/login/page.js",
+  "/(payload)/admin/[[...segments]]/page": "app/(payload)/admin/[[...segments]]/page.js",
   "/(app)/tenant-slugs/[tenant]/page": "app/(app)/tenant-slugs/[tenant]/page.js"
 }
